@@ -1,4 +1,4 @@
-# TaskApp by HVG
+# By HVG
 
 Demo app in React and Firebase
 

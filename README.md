@@ -1,4 +1,4 @@
-# By HVG
+# Firebase Login
 
 Demo app in React and Firebase
 
